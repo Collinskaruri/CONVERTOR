@@ -58,6 +58,6 @@ class ConverterApp(App):
             self.hexadecimal_label.text = "Hexadecimal: Invalid Input"
             self.octal_label.text = "Octal: Invalid Input"
 
-# Run the app
 if __name__ == "__main__":
     ConverterApp().run()
+
